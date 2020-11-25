@@ -1,1 +1,1 @@
-var axios=reqq
+var axios=req
