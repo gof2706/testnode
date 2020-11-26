@@ -1,2 +1,2 @@
-var a="tyt" 
+var a="tyta" 
 console.log(a)
